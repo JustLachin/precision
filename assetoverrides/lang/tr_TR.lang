@@ -1,3 +1,17 @@
+language.name=Turkish
+language.region=TR
+language.code=tr_TR
+
+gui.done=Done
+gui.cancel=Cancel
+gui.back=Back
+gui.toMenu=Back to title screen
+gui.up=Up
+gui.down=Down
+gui.yes=Yes
+gui.no=No
+gui.killTask=Kill Task
+
 achievement.acquireIron=Donanım Edin
 achievement.acquireIron.desc=Bir demir külçesi yap
 achievement.bakeCake=Yalan
